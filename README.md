@@ -11,9 +11,11 @@ III) Dans un troisième temps, nous présentons les trois problèmes fondamentau
 * le décryptage avec l'algorithme de Viterbi
 * l'apprentissage avec l'algorithme de Baul-Welch. 
 
-IV) Finalement, nous 
+IV) Finalement, nous développons un modèle de Part-of-Speech tagging à l'aide d'un modèle de Markov caché.
 
 ## Requirements
+
+Afin d'installer les dépendances du projet, veuillez rentrer cette commande dans le terminal : 
 
 ```
 pip install -r requirements.txt
