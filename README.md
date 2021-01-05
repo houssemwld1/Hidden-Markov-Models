@@ -15,7 +15,7 @@ IV) Finalement, nous développons un modèle de Part-of-Speech tagging à l'aide
 
 ## Requirements
 
-Afin d'installer les dépendances du projet, veuillez rentrer cette commande dans le terminal : 
+Afin d'installer les dépendances du projet, veuillez rentrer cette commande dans un terminal : 
 
 ```
 pip install -r requirements.txt
