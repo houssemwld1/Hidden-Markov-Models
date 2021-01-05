@@ -10,6 +10,7 @@ III) Dans un troisième temps, nous présentons les trois problèmes fondamentau
 * le calcul de probabilité avec l'algorithme du Forward
 * le décryptage avec l'algorithme de Viterbi
 * l'apprentissage avec l'algorithme de Baul-Welch. 
+
 IV) Finalement, nous 
 
 ## Requirements
