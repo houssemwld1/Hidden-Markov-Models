@@ -20,7 +20,7 @@ Introduction à la théorie des modèles de Markov cachés et à ses application
 * le data set utilisé dans la partie 4 "brown_universal.txt"
 * les prérequis "requirements.txt"
 
-## Requirements
+## Prérequis
 
 Afin d'installer les dépendances du projet, veuillez rentrer cette commande dans un terminal : 
 
