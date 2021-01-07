@@ -26,4 +26,5 @@ Introduction à la théorie des modèles de Markov cachés et à ses application
 Afin d'installer les dépendances du projet, veuillez rentrer cette commande dans un terminal : 
 
 ```
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
