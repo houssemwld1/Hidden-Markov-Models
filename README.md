@@ -15,7 +15,7 @@ Introduction à la théorie des modèles de Markov cachés et à ses application
 
 ## Fichiers 
 
-* Le notebook principal "HMM."
+* Le notebook principal "HMM.ipynb"
 * Un dossier "Images" contenant toutes les illustrations du notebook
 * le data set utilisé dans la partie 4 "brown_universal.txt"
 * les prérequis "requirements.txt"
