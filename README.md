@@ -13,6 +13,13 @@ Introduction à la théorie des modèles de Markov cachés et à ses application
 
 4) Finalement, nous développons un modèle de Part-of-Speech tagging à l'aide d'un modèle de Markov caché.
 
+## Fichiers 
+
+* Le notebook principal "HMM."
+* Un dossier "Images" contenant toutes les illustrations du notebook
+* le data set utilisé dans la partie 4 "brown_universal.txt"
+* les prérequis "requirements.txt"
+
 ## Requirements
 
 Afin d'installer les dépendances du projet, veuillez rentrer cette commande dans un terminal : 
